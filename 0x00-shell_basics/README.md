@@ -1,2 +1,3 @@
-#!/bin/bash instruct the operating system to use bash as a command interpreter
-pwd prints current working directory path
+#!/bin/bash  instruct the operating system to use bash as a command interpreter
+pwd prints the current working directory path
+ls list files or directories
