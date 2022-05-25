@@ -2,3 +2,4 @@
 pwd prints the current working directory path
 ls list files or directories
 cd ~ changes the working directory to the user’s home directory
+ls -l print files in a long listing format
