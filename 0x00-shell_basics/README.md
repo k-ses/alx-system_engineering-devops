@@ -8,3 +8,4 @@ ls -an Display current directory contents in Long format,with user and group IDs
 mkdir -p creates the directories specified in a path
 rm -r delete files
 cd .. changes the working directory to the previous one.
+ls -la List files in long format including hidden files
