@@ -9,3 +9,4 @@ mkdir -p creates the directories specified in a path
 rm -r delete files
 cd .. changes the working directory to the previous one.
 ls -la List files in long format including hidden files
+mktemp command create a temporary directory inside the /tmp directory.
