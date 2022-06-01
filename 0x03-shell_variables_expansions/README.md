@@ -16,3 +16,4 @@ echo $(($BREATH**LOVE))
 echo "$((2#$BINARY))" converts number fr base 2 to base 10
 prints total combinations of two letters echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
  prints a number with two decimal places printf "%.2f\n" $NUM
+printf '%x\n' $DECIMAL converts a number from base 10 to base 16
