@@ -9,3 +9,8 @@ export BEST="School" create global variable
 expr $POWER / $DIVIDE returnsof division between the two variables
 echo $(($BREATH**LOVE))
 
+
+
+
+
+echo "$((2#$BINARY))" converts number fr base 2 to base 10
