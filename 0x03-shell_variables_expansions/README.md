@@ -14,3 +14,4 @@ echo $(($BREATH**LOVE))
 
 
 echo "$((2#$BINARY))" converts number fr base 2 to base 10
+prints total combinations of two letters echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
