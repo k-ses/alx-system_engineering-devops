@@ -7,3 +7,5 @@ printenv list environment variables
 export BEST="School" create local variable
 export BEST="School" create global variable
 expr $POWER / $DIVIDE returnsof division between the two variables
+echo $(($BREATH**LOVE))
+
